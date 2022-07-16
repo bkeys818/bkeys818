@@ -6,15 +6,15 @@
 
 ## What I'm Working On
 
-#### [Campus Map](https://github.com/bkeys818/campus-map) - A map for any campus.
-
-This is an open source app I'm working on in my free time. It works a sort of template app. It fetches the data for a specific school from its [data repository](https://github.com/bkeys818/campus-map-data), and then it turns that data into a map app for that college.
-
 ### Other Projects
 
 #### [Card Carousel](https://github.com/bkeys818/CardCarousel)
 
 A package that add's a card carousel to SwiftUI. Inspiration and some of the code comes from Christopher Guirguis's [Infinite Carousel](https://www.youtube.com/watch?v=fB5MzDD1PZI).
+
+#### [Campus Map](https://github.com/bkeys818/campus-map) - A map for any campus.
+
+This is an open source app I'm working on in my free time. It works a sort of template app. It fetches the data for a specific school from its [data repository](https://github.com/bkeys818/campus-map-data), and then it turns that data into a map app for that college.
 
 
 
