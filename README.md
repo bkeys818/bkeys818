@@ -75,12 +75,9 @@ A package that add's a card carousel to SwiftUI. Inspiration and some of the cod
     </a>
 </p>
 
-
+---
 
 <div style="display:flex; flex-wrap:wrap; justify-content:space-around;">
-
-  <p>&nbsp;<img  src="https://github-readme-stats.vercel.app/api?username=bkeys818&show_icons=true&locale=en" alt="bkeys818" /></p>
-
-  <p><img src="https://github-readme-streak-stats.herokuapp.com/?user=bkeys818&" alt="bkeys818" /></p>
+  <img  src="https://github-readme-stats.vercel.app/api?username=bkeys818&show_icons=true&locale=en" alt="bkeys818" />
 
 </div>
