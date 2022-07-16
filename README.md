@@ -20,21 +20,13 @@ A package that add's a card carousel to SwiftUI. Inspiration and some of the cod
 
 This is an open source app I'm working on in my free time. It works a sort of template app. It fetches the data for a specific school from its [data repository](https://github.com/bkeys818/campus-map-data), and then it turns that data into a map app for that college.
 
-
-
 ## Connect with me:
-<p align="left">
-  <a href="https://linkedin.com/in/bkeys818" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="bkeys818" height="30" width="40" /></a>
-  <a href="https://instagram.com/bkeys818.g" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="bkeys818.g" height="30" width="40" /></a>
-<a href="https://dribbble.com/bkeys818" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dribbble.svg" alt="bkeys818" height="30" width="40" /></a>
-<a href="https://www.behance.net/bkeys818" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/behance.svg" alt="bkeys818" height="30" width="40" /></a>
-</p>
 
-👨‍💻 All of my developer work is available on [**my github**](https://github.com/bkeyss818)
+📫 You can reach me at **bkeys818@gmail.com**.
 
-🎨 My designer work is available on [**Upwork**](https://github.com/bkeyss818)
+💼 I'm currently looking for work on [**LinkedIn**](https://linkedin.com/in/bkeys818).
 
-📫 You can reach me at **bkeys818@gmail.com**
+👨‍💻 All of my developer work is available on here on [**GitHub**](https://github.com/bkeys818).
 
 ## Languages and Tools:
 
