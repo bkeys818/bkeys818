@@ -6,6 +6,10 @@
 
 ## What I'm Working On
 
+#### [Kitchen Manager](https://github.com/bkeys818/KitchenManager)
+
+An iOS app that combines your recipies and your shopping list. That way it can only show you recipies that you have the food for.
+
 ### Other Projects
 
 #### [Card Carousel](https://github.com/bkeys818/CardCarousel)
