@@ -10,15 +10,7 @@
 
 This is an open source app I'm working on in my free time. It works a sort of template app. It fetches the data for a specific school from its [data repository](https://github.com/bkeys818/campus-map-data), and then it turns that data into a map app for that college.
 
-#### [Spotify Duplicates](https://github.com/bkeys818/spotify-duplicates) - Remove duplicate tracks from playlists
-
-This is a React app site used to remove duplicate songs from Spotify playlist. I'd plan to add other features such as sorting playlist by artist, genre, etc. The website it built using [React](https://reactjs.org), [Gatsby](https://www.gatsbyjs.com), [Typescript](https://www.typescriptlang.org), [Jest](https://jestjs.io), and [Sass](https://sass-lang.com) and currently hosted on [Gatsby Cloud](https://www.gatsbyjs.com/products/cloud/hosting).
-
 ### Other Projects
-
-#### [100 Day's of SwiftUI](https://github.com/bkeys818/campus-map)
-
-My files for Paul Hudson's [100 Day's of SwiftUI course](https://www.hackingwithswift.com/100/swiftui). 
 
 #### [Card Carousel](https://github.com/bkeys818/CardCarousel)
 
