@@ -16,6 +16,10 @@ An iOS app that combines your recipes and your shopping list. That way, you can 
 
 A package that adds a card carousel to SwiftUI. Inspiration and some of the code came from Christopher Guirguis's [Infinite Carousel](https://www.youtube.com/watch?v=fB5MzDD1PZI).
 
+#### [Shopify Template Schema](https://github.com/bkeys818/shopify-template-schema) - A tool for converting Shopify schemas into a JSON schemas.
+
+This NPM packages converts Shopify [section schemas](https://shopify.dev/themes/architecture/sections/section-schema) and [settings schemas](https://shopify.dev/themes/architecture/config/settings-schema-json) into [JSON schemas](https://json-schema.org), allowing you to check Shopify [templates](https://shopify.dev/themes/architecture/templates) and [settings](https://shopify.dev/themes/architecture/config/settings-data-json) as you edit them.
+
 #### [Campus Map](https://github.com/bkeys818/campus-map) - A map for any campus.
 
 This is an open-source app I'm working on in my free time. It works as a sort of template app. It fetches the data for a specific school from its [data repository](https://github.com/bkeys818/campus-map-data), then turns that data into a map app for that college.
