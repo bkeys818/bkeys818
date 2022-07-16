@@ -95,5 +95,4 @@ This is an open source app I'm working on in my free time. It works a sort of te
 
 <div style="display:flex; flex-wrap:wrap; justify-content:space-around;">
   <img  src="https://github-readme-stats.vercel.app/api?username=bkeys818&show_icons=true&locale=en" alt="bkeys818" />
-
 </div>
