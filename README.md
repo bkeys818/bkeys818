@@ -71,6 +71,9 @@ This is an open-source app I'm working on in my free time. It works as a sort of
     <a href="https://firebase.google.com/" target=_blank rel=noreferrer>
         <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt=firebase width=40 height=40/>
     </a>
+    <a href="https://kit.svelte.dev" target=_blank rel=noreferrer>
+        <img src="https://upload.wikimedia.org/wikipedia/commons/1/1b/Svelte_Logo.svg" alt="svelte kit" width=40 height=40/>
+    </a>
     <a href="https://www.gatsbyjs.com/" target=_blank rel=noreferrer>
         <img src="https://www.vectorlogo.zone/logos/gatsbyjs/gatsbyjs-icon.svg" alt=gatsby width=40 height=40/>
     </a>
