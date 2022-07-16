@@ -99,3 +99,9 @@ This is an open-source app I'm working on in my free time. It works as a sort of
 <div style="display:flex; flex-wrap:wrap; justify-content:space-around;">
   <img  src="https://github-readme-stats.vercel.app/api?username=bkeys818&show_icons=true&locale=en" alt="bkeys818" />
 </div>
+
+## More About Me
+
+🏫 I'm majoring in **computer science** and **telecommunications (multimedia)** at Ball State University.
+
+🧗🏻‍♂️ I love rock climbing!
