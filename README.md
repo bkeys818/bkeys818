@@ -30,7 +30,7 @@ This is an open source app I'm working on in my free time. It works a sort of te
 
 ## Languages and Tools:
 
-<p align="left">
+<div align="left">
     <a href="https://developer.apple.com/swift/" target=_blank rel=noreferrer>
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/swift/swift-original.svg" alt=swift width=40 height=40/>
     </a>
@@ -46,9 +46,9 @@ This is an open source app I'm working on in my free time. It works a sort of te
     <a href="https://www.w3schools.com/css/" target=_blank rel=noreferrer>
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt=css3 width=40 height=40/>
     </a>
-</p>
+</div>
 
-<p align="left">
+<div align="left">
     <a href="https://nodejs.org" target=_blank rel=noreferrer>
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt=nodejs width=40 height=40/>
     </a>
@@ -64,19 +64,19 @@ This is an open source app I'm working on in my free time. It works a sort of te
     <a href="https://jestjs.io" target=_blank rel=noreferrer>
         <img src="https://www.vectorlogo.zone/logos/jestjsio/jestjsio-icon.svg" alt=jest width=40 height=40/>
     </a>
-</p>
+</div>
 
 
-<p align="left">
+<div align="left">
     <a href="https://firebase.google.com/" target=_blank rel=noreferrer>
         <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt=firebase width=40 height=40/>
     </a>
     <a href="https://www.gatsbyjs.com/" target=_blank rel=noreferrer>
         <img src="https://www.vectorlogo.zone/logos/gatsbyjs/gatsbyjs-icon.svg" alt=gatsby width=40 height=40/>
     </a>
-</p>
+</div>
 
-<p align="left">
+<div align="left">
     <a href="https://www.adobe.com/in/products/illustrator.html" target=_blank rel=noreferrer>
         <img src="https://cdn.worldvectorlogo.com/logos/adobe-illustrator-cc-icon.svg" alt=illustrator width=40 height=40/>
     </a>
@@ -89,7 +89,7 @@ This is an open source app I'm working on in my free time. It works a sort of te
     <a href="https://www.adobe.com/in/products/premiere.html" target=_blank rel=noreferrer>
         <img src="https://svgarchive.com/wp-content/uploads/adobe-premiere-pro-cc-14.3.0-vector-svg.svg" alt=premiere width=40 height=40/>
     </a>
-</p>
+</div>
 
 ---
 
