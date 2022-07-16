@@ -8,17 +8,17 @@
 
 #### [Kitchen Manager](https://github.com/bkeys818/KitchenManager)
 
-An iOS app that combines your recipies and your shopping list. That way it can only show you recipies that you have the food for.
+An iOS app that combines your recipes and your shopping list. That way, you can filter to see only recipes where you have all the ingredients.
 
 ### Other Projects
 
 #### [Card Carousel](https://github.com/bkeys818/CardCarousel)
 
-A package that add's a card carousel to SwiftUI. Inspiration and some of the code comes from Christopher Guirguis's [Infinite Carousel](https://www.youtube.com/watch?v=fB5MzDD1PZI).
+A package that adds a card carousel to SwiftUI. Inspiration and some of the code came from Christopher Guirguis's [Infinite Carousel](https://www.youtube.com/watch?v=fB5MzDD1PZI).
 
 #### [Campus Map](https://github.com/bkeys818/campus-map) - A map for any campus.
 
-This is an open source app I'm working on in my free time. It works a sort of template app. It fetches the data for a specific school from its [data repository](https://github.com/bkeys818/campus-map-data), and then it turns that data into a map app for that college.
+This is an open-source app I'm working on in my free time. It works as a sort of template app. It fetches the data for a specific school from its [data repository](https://github.com/bkeys818/campus-map-data), then turns that data into a map app for that college.
 
 ## Connect with me:
 
@@ -26,7 +26,7 @@ This is an open source app I'm working on in my free time. It works a sort of te
 
 💼 I'm currently looking for work on [**LinkedIn**](https://linkedin.com/in/bkeys818).
 
-👨‍💻 All of my developer work is available on here on [**GitHub**](https://github.com/bkeys818).
+👨‍💻 All my development work is available here on [**GitHub**](https://github.com/bkeys818).
 
 ## Languages and Tools:
 
