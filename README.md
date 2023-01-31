@@ -6,10 +6,6 @@
 
 ## My Projects
 
-#### [Kitchen Manager](https://github.com/bkeys818/KitchenManager)
-
-An iOS app that combines your recipes and your shopping list. That way, you can filter to see only recipes where you have all the ingredients.
-
 #### [Card Carousel](https://github.com/bkeys818/CardCarousel) - Add a Carousel to SwiftUI.
 
 A package that adds a card carousel to SwiftUI. Inspiration and some of the code came from Christopher Guirguis's [Infinite Carousel](https://www.youtube.com/watch?v=fB5MzDD1PZI).
