@@ -106,6 +106,6 @@ This is an open-source app I'm working on in my free time. It works as a sort of
 
 ## More About Me
 
-🏫 I'm majoring in **computer science** and **telecommunications (multimedia)** at Ball State University.
+🏫 I'm working towards a bachelor's degree in **media** with a minor in **computer science** at Ball State University.
 
-🧗🏻‍♂️ I love rock climbing!
+🧗🏻‍♂️ I (really) love rock climbing!
