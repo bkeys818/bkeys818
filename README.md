@@ -6,6 +6,9 @@
 
 ## My Projects
 
+#### [Spotify Tools](https://github.com/bkeys818/spotify-tools) - A site with tools to use alongside Spotify.
+A website built with [SvelteKit](https://kit.svelte.dev) and [Firebase](https://firebase.google.com/) that ties into the [Spotify API](https://developer.spotify.com/) to offers tools not provided by native Spotify.
+
 #### [Card Carousel](https://github.com/bkeys818/CardCarousel) - Add a Carousel to SwiftUI.
 
 A package that adds a card carousel to SwiftUI. Inspiration and some of the code came from Christopher Guirguis's [Infinite Carousel](https://www.youtube.com/watch?v=fB5MzDD1PZI).
