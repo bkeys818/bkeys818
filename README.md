@@ -4,13 +4,11 @@
 
 <!--p align="left"> <img src="https://komarev.com/ghpvc/?username=bkeys818&label=Profile%20views&color=0e75b6&style=flat" alt="bkeys818" /> </p-->
 
-## What I'm Working On
+## My Projects
 
 #### [Kitchen Manager](https://github.com/bkeys818/KitchenManager)
 
 An iOS app that combines your recipes and your shopping list. That way, you can filter to see only recipes where you have all the ingredients.
-
-### Other Projects
 
 #### [Card Carousel](https://github.com/bkeys818/CardCarousel) - Add a Carousel to SwiftUI.
 
