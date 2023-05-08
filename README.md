@@ -32,66 +32,65 @@ This NPM packages converts Shopify [section schemas](https://shopify.dev/themes/
 ## Languages and Tools:
 
 <div align="left">
-    <a href="https://developer.apple.com/swift/" target=_blank rel=noreferrer>
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/swift/swift-original.svg" alt=swift width=40 height=40/>
+    <a href="https://www.swift.org" target=_blank rel=noreferrer>
+        <img src="https://cdn.simpleicons.org/swift" alt="Swift" width=40 height=40/>
     </a>
-    <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target=_blank rel=noreferrer>
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt=javascript width=40 height=40/>
+    <a href="https://developer.oracle.com/languages/javascript.html" target=_blank rel=noreferrer>
+        <img src="https://cdn.simpleicons.org/javascript" alt="Javascript" width=40 height=40/>
     </a>
-    <a href="https://www.typescriptlang.org/" target=_blank rel=noreferrer>
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt=typescript width=40 height=40/>
+    <a href="https://www.typescriptlang.org" target=_blank rel=noreferrer>
+        <img src="https://cdn.simpleicons.org/typescript" alt="TypeScript" width=40 height=40/>
     </a>
-    <a href="https://www.w3.org/html/" target=_blank rel=noreferrer>
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt=html5 width=40 height=40/>
+    <a href="https://html.spec.whatwg.org/multipage/" target=_blank rel=noreferrer>
+        <img src="https://cdn.simpleicons.org/html5" alt="HTML5" width=40 height=40/>
     </a>
-    <a href="https://www.w3schools.com/css/" target=_blank rel=noreferrer>
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt=css3 width=40 height=40/>
+    <a href="https://www.w3.org/style/css/overview" target=_blank rel=noreferrer>
+        <img src="https://cdn.simpleicons.org/css3" alt="CSS3" width=40 height=40/>
+    </a>
+    <a href="https://www.gnu.org/software/bash/" target=_blank rel=noreferrer>
+        <img src="https://cdn.simpleicons.org/gnubash" alt="Bash" width=40 height=40/>
     </a>
 </div>
 
 <div align="left">
-    <a href="https://nodejs.org" target=_blank rel=noreferrer>
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt=nodejs width=40 height=40/>
+   <a href="https://nodejs.org" target=_blank rel=noreferrer>
+        <img src="https://cdn.simpleicons.org/nodedotjs" alt="Node.js" width=40 height=40/>
     </a>
-    <a href="https://reactjs.org/" target=_blank rel=noreferrer>
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt=react width=40 height=40/>
+    <a href="https://firebase.google.com" target=_blank rel=noreferrer>
+        <img src="https://cdn.simpleicons.org/firebase" alt="Firebase" width=40 height=40/>
+    </a>
+    <a href="https://astro.build" target=_blank rel=noreferrer>
+        <img src="https://cdn.simpleicons.org/astro" alt="Astro" width=40 height=40/>
     </a>
     <a href="https://svelte.dev" target=_blank rel=noreferrer>
-        <img src="https://upload.wikimedia.org/wikipedia/commons/1/1b/Svelte_Logo.svg" alt=svelte width=40 height=40/>
+        <img src="https://cdn.simpleicons.org/svelte" alt="Svelte" width=40 height=40/>
     </a>
-    <a href="https://sass-lang.com" target=_blank rel=noreferrer>
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt=sass width=40 height=40/>
+    <a href="https://react.dev" target=_blank rel=noreferrer>
+        <img src="https://cdn.simpleicons.org/react" alt="React" width=40 height=40/>
+    </a>
+</div>
+
+<div align="left">
+   <a href="https://git-scm.com" target=_blank rel=noreferrer>
+        <img src="https://cdn.simpleicons.org/git" alt="Git" width=40 height=40/>
     </a>
     <a href="https://jestjs.io" target=_blank rel=noreferrer>
-        <img src="https://www.vectorlogo.zone/logos/jestjsio/jestjsio-icon.svg" alt=jest width=40 height=40/>
+        <img src="https://cdn.simpleicons.org/jest" alt="Jest" width=40 height=40/>
     </a>
-</div>
-
-
-<div align="left">
-    <a href="https://firebase.google.com/" target=_blank rel=noreferrer>
-        <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt=firebase width=40 height=40/>
+    <a href="https://prettier.io" target=_blank rel=noreferrer>
+        <img src="https://cdn.simpleicons.org/prettier" alt="Prettier" width=40 height=40/>
     </a>
-    <a href="https://kit.svelte.dev" target=_blank rel=noreferrer>
-        <img src="https://upload.wikimedia.org/wikipedia/commons/1/1b/Svelte_Logo.svg" alt="svelte kit" width=40 height=40/>
+    <a href="https://eslint.org" target=_blank rel=noreferrer>
+        <img src="https://cdn.simpleicons.org/eslint" alt="EsLint" width=40 height=40/>
     </a>
-    <a href="https://www.gatsbyjs.com/" target=_blank rel=noreferrer>
-        <img src="https://www.vectorlogo.zone/logos/gatsbyjs/gatsbyjs-icon.svg" alt=gatsby width=40 height=40/>
+    <a href="https://sass-lang.com" target=_blank rel=noreferrer>
+        <img src="https://cdn.simpleicons.org/sass" alt="Sass" width=40 height=40/>
     </a>
-</div>
-
-<div align="left">
-    <a href="https://www.adobe.com/in/products/illustrator.html" target=_blank rel=noreferrer>
-        <img src="https://cdn.worldvectorlogo.com/logos/adobe-illustrator-cc-icon.svg" alt=illustrator width=40 height=40/>
+    <a href="https://tailwindcss.com" target=_blank rel=noreferrer>
+        <img src="https://cdn.simpleicons.org/tailwindcss" alt="TailwindCSS" width=40 height=40/>
     </a>
-    <a href="https://www.adobe.com/in/products/xd.html" target=_blank rel=noreferrer>
-        <img src="https://cdn.worldvectorlogo.com/logos/adobe-xd-2.svg" alt=xd width=40 height=40/>
-    </a>
-    <a href="https://www.adobe.com/in/products/audition.html" target=_blank rel=noreferrer>
-        <img src="https://cdn.worldvectorlogo.com/logos/adobe-audition-cc-icon-2020-.svg" alt=audition width=40 height=40/>
-    </a>
-    <a href="https://www.adobe.com/in/products/premiere.html" target=_blank rel=noreferrer>
-        <img src="https://svgarchive.com/wp-content/uploads/adobe-premiere-pro-cc-14.3.0-vector-svg.svg" alt=premiere width=40 height=40/>
+    <a href="https://postcss.org" target=_blank rel=noreferrer>
+        <img src="https://cdn.simpleicons.org/postcss" alt="PostCSS" width=40 height=40/>
     </a>
 </div>
 
