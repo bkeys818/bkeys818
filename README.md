@@ -94,6 +94,20 @@ This NPM packages converts Shopify [section schemas](https://shopify.dev/themes/
     </a>
 </div>
 
+## Soft Skills:
+
+### Problem Solver
+Problem-solving is an inherent aspect of my work ethic. I possess an innate talent for recognizing and tackling even the most challenging issues, particularly those others overlook. If I encounter a problem that I cannot resolve, I proactively seek solutions, either by learning new techniques or consulting with experts in the field. By taking this approach, I have been able to refine my skills and expand my knowledge base to overcome any obstacles that come my way.
+
+### Quick Learner & Adaptable
+Since a young age, I have dedicated my free time to teaching myself a diverse range of skills. Initially, I began my journey by immersing myself in graphic design, which eventually paved the way for my entry into the world of programming. With my extensive skill set and aptitude for rapid learning, I have developed a versatile collection of competencies that make me a valuable asset in any project or team.
+
+### Patern Oriented
+My ability to recognize patterns plays a significant role in the way I approach problem-solving. It’s helped me develop a sharp intuition and made me highly perceptive in my work. My pattern recognition skills are a vital asset in my work, allowing me to excel in various technical disciplines.
+
+### People Person & Outgoing
+I thrive in social environments, working alongside others. When the situation demands it, I can naturally assume a leadership role, guiding and motivating others toward achieving a shared goal. My sociable nature and leadership skills make me an ideal fit for any team-oriented project.
+
 ---
 
 <div style="display:flex; flex-wrap:wrap; justify-content:space-around;">
