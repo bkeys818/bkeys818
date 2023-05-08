@@ -3,6 +3,7 @@
 <h3 align="center">I'm an ambitious, multifaceted, and tenacious front-end developer!</h3>
 
 ![Profile Views](https://komarev.com/ghpvc/?username=bkeys818&label=Profile%20views&color=0e75b6&style=flat)
+![Total Repo Stars](https://img.shields.io/github/stars/bkeys818?style=social)
 
 ## My Projects
 
