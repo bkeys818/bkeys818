@@ -2,7 +2,7 @@
 
 <h3 align="center">I'm an ambitious, multifaceted, and tenacious front-end developer!</h3>
 
-<!--p align="left"> <img src="https://komarev.com/ghpvc/?username=bkeys818&label=Profile%20views&color=0e75b6&style=flat" alt="bkeys818" /> </p-->
+![Profile Views](https://komarev.com/ghpvc/?username=bkeys818&label=Profile%20views&color=0e75b6&style=flat)
 
 ## My Projects
 
@@ -105,3 +105,5 @@ This NPM packages converts Shopify [section schemas](https://shopify.dev/themes/
 🏫 I'm working towards a bachelor's degree in **media** with a minor in **computer science** at Ball State University.
 
 🧗🏻‍♂️ I (really) love rock climbing!
+
+![](https://hit.yhype.me/github/profile?user_id=65252963)
