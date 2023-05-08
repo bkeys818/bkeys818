@@ -6,6 +6,9 @@
 
 ## My Projects
 
+#### [Personal Site](https://github.com/bkeys818/personal-site) - A site for my portfolio, tools, and blog.
+The website build from the ground up using [Astro](https://astro.build/). Created as home for my profession and creative work, it also serves as a place for me to dump the useful parts of my brain.
+
 #### [Spotify Tools](https://github.com/bkeys818/spotify-tools) - A site with tools to use alongside Spotify.
 A website built with [SvelteKit](https://kit.svelte.dev) and [Firebase](https://firebase.google.com/) that ties into the [Spotify API](https://developer.spotify.com/) to offers tools not provided by native Spotify.
 
