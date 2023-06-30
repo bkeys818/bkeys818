@@ -7,8 +7,8 @@
 
 ## My Projects
 
-#### [Personal Site](https://github.com/bkeys818/personal-site) - A site for my portfolio, tools, and blog.
-The website build from the ground up using [Astro](https://astro.build/). Created as home for my profession and creative work, it also serves as a place for me to dump the useful parts of my brain.
+#### [Personal Site](https://github.com/bkeys818/personal-site) - A home for my portfolio, tools, and blog.
+I built this site from the ground up using [Astro](https://astro.build/). Created as a place for my profession and creative work, it also serves as a place for me to dump the useful parts of my brain.
 
 #### [Spotify Tools](https://github.com/bkeys818/spotify-tools) - A site with tools to use alongside Spotify.
 A website built with [SvelteKit](https://kit.svelte.dev) and [Firebase](https://firebase.google.com/) that ties into the [Spotify API](https://developer.spotify.com/) to offers tools not provided by native Spotify.
@@ -17,7 +17,7 @@ A website built with [SvelteKit](https://kit.svelte.dev) and [Firebase](https://
 
 A package that adds a card carousel to SwiftUI. Inspiration and some of the code came from Christopher Guirguis's [Infinite Carousel](https://www.youtube.com/watch?v=fB5MzDD1PZI).
 
-#### [Shopify Template Schema](https://github.com/bkeys818/shopify-template-schema) - A tool for converting Shopify schemas into a JSON schemas.
+#### [Shopify Template Schema](https://github.com/bkeys818/shopify-template-schema) - A tool for converting Shopify schemas into a JSON schema.
 
 This NPM packages converts Shopify [section schemas](https://shopify.dev/themes/architecture/sections/section-schema) and [settings schemas](https://shopify.dev/themes/architecture/config/settings-schema-json) into [JSON schemas](https://json-schema.org), allowing you to check Shopify [templates](https://shopify.dev/themes/architecture/templates) and [settings](https://shopify.dev/themes/architecture/config/settings-data-json) as you edit them.
 
