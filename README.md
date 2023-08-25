@@ -44,6 +44,9 @@ This NPM packages converts Shopify [section schemas](https://shopify.dev/themes/
     <a href="https://html.spec.whatwg.org/multipage/" target=_blank rel=noreferrer>
         <img src="https://cdn.simpleicons.org/html5" alt="HTML5" width=40 height=40/>
     </a>
+    <a href="https://www.python.org" target=_blank rel=noreferrer>
+        <img src="https://cdn.simpleicons.org/python" alt="Python" width=40 height=40/>
+    </a>
     <a href="https://www.w3.org/style/css/overview" target=_blank rel=noreferrer>
         <img src="https://cdn.simpleicons.org/css3" alt="CSS3" width=40 height=40/>
     </a>
