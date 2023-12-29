@@ -105,7 +105,7 @@ Problem-solving is an inherent aspect of my work ethic. I possess an innate tale
 ### Quick Learner & Adaptable
 Since a young age, I have dedicated my free time to teaching myself a diverse range of skills. Initially, I began my journey by immersing myself in graphic design, which eventually paved the way for my entry into the world of programming. With my extensive skill set and aptitude for rapid learning, I have developed a versatile collection of competencies that make me a valuable asset in any project or team.
 
-### Patern Oriented
+### Pattern Oriented
 My ability to recognize patterns plays a significant role in the way I approach problem-solving. It’s helped me develop a sharp intuition and made me highly perceptive in my work. My pattern recognition skills are a vital asset in my work, allowing me to excel in various technical disciplines.
 
 ### People Person & Outgoing
