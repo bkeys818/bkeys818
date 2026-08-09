@@ -2,7 +2,7 @@ name: Publish profile
 
 on:
   push:
-    branches: [master]
+    branches: [main]
     # README.md is deliberately absent: this workflow commits it, and listing it
     # here would make that commit retrigger the workflow in a loop.
     paths:
