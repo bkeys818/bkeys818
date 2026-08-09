@@ -1,0 +1,63 @@
+name: Publish profile
+
+on:
+  push:
+    branches: [master]
+    # README.md is deliberately absent: this workflow commits it, and listing it
+    # here would make that commit retrigger the workflow in a loop.
+    paths:
+      - 'data/**'
+      - 'icons/**'
+      - 'src/**'
+      - 'templates/**'
+      - 'package.json'
+      - 'bun.lock'
+      - '.github/workflows/publish.yml'
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+concurrency:
+  group: publish-profile
+  cancel-in-progress: false
+
+jobs:
+  publish:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: oven-sh/setup-bun@v2
+        with:
+          bun-version: latest
+
+      - run: bun install --frozen-lockfile
+
+      # Fails the job on invalid data, so a bad edit never reaches either
+      # the profile README or personal-site.
+      - run: bun run render
+
+      - name: Commit rendered README
+        run: |
+          git config user.name 'github-actions[bot]'
+          git config user.email '41898282+github-actions[bot]@users.noreply.github.com'
+          git add README.md
+          if git diff --staged --quiet; then
+            echo 'README.md is already up to date'
+          else
+            git commit -m '🤖 Re-render README from profile data'
+            git push
+          fi
+
+      # Runs whether or not the README changed: personal-site fetches the same
+      # data and needs rebuilding regardless of what the README diff looked like.
+      - name: Trigger personal-site rebuild
+        env:
+          HOOK: ${{ secrets.NETLIFY_BUILD_HOOK }}
+        run: |
+          if [ -z "$HOOK" ]; then
+            echo '::warning::NETLIFY_BUILD_HOOK is not set - skipping site rebuild'
+            exit 0
+          fi
+          curl -fsS -X POST -d '{}' "$HOOK"

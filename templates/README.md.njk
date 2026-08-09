@@ -1,0 +1,56 @@
+<h1 align="center">👋 Hi, I'm Ben Keys</h1>
+
+<h3 align="center">I'm an ambitious, multifaceted, and tenacious developer!</h3>
+
+<!-- ![Profile Views](https://komarev.com/ghpvc/?username=bkeys818&label=Profile%20views&color=0e75b6&style=flat) -->
+![Total Repo Stars](https://img.shields.io/github/stars/bkeys818?style=social)
+
+## My Projects
+
+{% for project in projects %}
+#### [{{ project.name }}](https://github.com/{{ project.repo.owner }}/{{ project.repo.name }}) - {{ project.tagline }}
+
+{{ project.description }}{{ ' [**Visit the site →**](' + project.url + ')' if project.url else '' }}
+
+{% endfor %}
+## Connect with me:
+
+📫 You can reach me at **{{ social.mail.value }}**.
+
+💼 I'm currently looking for work on [**{{ social.linkedin.label }}**]({{ social.linkedin.href }}).
+
+👨‍💻 All my development work is available here on [**{{ social.github.label }}**]({{ social.github.href }}).
+
+## Languages and Tools:
+
+{% for group in skills.hard %}
+<div align="left">
+{% for icon in group.icons %}
+    <a href="{{ icon.href }}" target=_blank rel=noreferrer>
+        <img src="{% if icon.fileName %}./icons/{{ icon.fileName }}.svg{% else %}https://cdn.simpleicons.org/{{ icon.slug }}{% endif %}" alt="{{ icon.title }}" width=40 height=40/>
+    </a>
+{% endfor %}
+</div>
+
+{% endfor %}
+## Soft Skills:
+
+{% for skill in skills.soft %}
+### {{ skill.title }}
+
+{{ skill.desc }}
+
+{% endfor %}
+---
+
+<div style="display:flex; flex-wrap:wrap; justify-content:space-around;">
+  <img src="https://github-readme-stats.vercel.app/api?username=bkeys818&show_icons=true&locale=en" alt="bkeys818" />
+</div>
+
+## More About Me
+
+🏫 I graduated from **Ball State University** in Fall 2023 with a bachelor's degree in **media** and a minor in **computer science**.
+
+🧗🏻‍♂️ I (really) love rock climbing!
+
+![](https://hit.yhype.me/github/profile?user_id=65252963)
