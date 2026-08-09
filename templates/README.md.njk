@@ -27,7 +27,7 @@
 <div align="left">
 {% for icon in group.icons %}
     <a href="{{ icon.href }}" target=_blank rel=noreferrer>
-        <img src="{% if icon.fileName %}./icons/{{ icon.fileName }}.svg{% else %}https://cdn.simpleicons.org/{{ icon.slug }}{% endif %}" alt="{{ icon.title }}" width=40 height=40/>
+        <img src="{% if icon.fileName %}./assets/{{ icon.fileName }}{% else %}https://cdn.simpleicons.org/{{ icon.slug }}{% endif %}" alt="{{ icon.title }}" width=40 height=40/>
     </a>
 {% endfor %}
 </div>
