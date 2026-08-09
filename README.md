@@ -52,7 +52,7 @@ I built this site from the ground up using [Astro](https://astro.build/). Create
         <img src="https://cdn.simpleicons.org/swift" alt="Swift" width=40 height=40/>
     </a>
     <a href="https://dev.java" target=_blank rel=noreferrer>
-        <img src="./icons/java.svg" alt="Java" width=40 height=40/>
+        <img src="./assets/java.svg" alt="Java" width=40 height=40/>
     </a>
     <a href="https://www.python.org" target=_blank rel=noreferrer>
         <img src="https://cdn.simpleicons.org/python" alt="Python" width=40 height=40/>
